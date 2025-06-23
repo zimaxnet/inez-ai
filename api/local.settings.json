@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "GRAPH_CLIENT_ID": "[REDACTED]",
+    "GRAPH_TENANT_ID": "[REDACTED]",
+    "GRAPH_CLIENT_SECRET": "[REDACTED]",
+    "GRAPH_USER_ID": "[REDACTED]"
+  }
+} 
