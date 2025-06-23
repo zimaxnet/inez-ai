@@ -9,7 +9,7 @@ const ActivationPage = () => {
     // TODO: Get email from MSAL context or other state
     const email = "user@example.com"; // Placeholder
     
-    // Call the backend to activate the account
+    // Call the Azure Function to activate the account
     const response = await fetch('/api/auth/activate', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
